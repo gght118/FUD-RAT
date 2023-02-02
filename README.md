@@ -1,5 +1,6 @@
 # FUD-RAT
 Fud Remote Access Trojan which bypass every Anti-Virus. Every time someone gets the Rat, I will change the code.
+Its written in python. If you buy, u will get the psw of the zip, everytime someone buys it, i will completly change the code.
 Its an Multi Client Rat which doesn´t have ani bugs or problems. It has a delay of random seconds between 30 and 60. 
 Even if someone uploads the Rat to virus total, it will not get detected, because its a different rat every time. 
 If you pay more, I will add every functions you want like live desktop streaming, keyloggers etc.
