@@ -4,4 +4,7 @@ Even if someone uploads the Rat to virus total, it will not get detected, becaus
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/124307301/216442996-001436c4-12ca-4f70-8578-bf88e6c4fd9b.png)
 
+![AntiScan](https://user-images.githubusercontent.com/124307301/216443320-d0645245-63f5-4e3a-9d26-e0a7cf8c0d62.png)
+
+
 Write an Email to this address to get the Rat. gght118@proton.me
