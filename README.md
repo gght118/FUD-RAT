@@ -12,5 +12,6 @@ Payments via Bitcoin ;)
 
 
 Write an Email to this address to get the Rat. gght118@proton.me
+Sometimes our messages are in the spam folder.
 Just for Ehtical Hacking ;)
 
